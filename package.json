@@ -1,0 +1,8 @@
+{
+  "name": "esm-with-cjs-reexport",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "type": "module",
+  "version": "0.0.0"
+}
